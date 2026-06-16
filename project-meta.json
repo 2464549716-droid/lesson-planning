@@ -1,0 +1,23 @@
+﻿{
+  "project_name": "lesson-planning",
+  "project_type": "skill",
+  "status": "reviewed",
+  "public_safe_self_check": "passed",
+  "human_review_required": false,
+  "source_repo_url": "https://github.com/2464549716-droid/lesson-planning",
+  "source_repo_name": "lesson-planning",
+  "source_path": ".",
+  "target_repo": "VIPTHINK/team-tools-hub",
+  "target_path": "分团队代码仓库/教研/杨童/lesson-planning",
+  "publisher": "杨童",
+  "target_team_dir": "教研",
+  "github_username": "2464549716-droid",
+  "copy_policy": "full_copy_excluding_git_no_desensitization_no_refactor_no_format_cleanup",
+  "risk_level": "low",
+  "risk_categories": [
+    "business_data/report/snapshot/generated",
+    "license/third-party attribution"
+  ],
+  "packaged_at": "2026-06-16"
+}
+
