@@ -1,4 +1,4 @@
----
+﻿---
 name: lesson-plan-from-images
 description: 将小学数学例题图片转化为结构化Excel教案的工作流。当用户提供参考模板Excel和数学例题图片（PNG/JPG），要求生成包含教学目标、分步互动话术、师生问答、小结和做题回收的40分钟教案时，启用此Skill。
 agent_created: true
@@ -184,8 +184,9 @@ for r in range(0, 80):
 
 ## Resources
 
-本 Skill 包含以下可复用资源：
+> **Note**: The following resources are referenced in this Skill's workflow. They are bundled in the source repository (`scripts/` and `references/` directories) and should be included when packaging.
 
 - `scripts/generate_lesson_plan.py` — Excel 教案生成器脚本框架（含格式定义和标准模块结构）
 - `references/template_format.md` — Excel 模板格式规范参考
 - `references/dialogue_templates.md` — 教学话术模板参考（破冰/分步引导/小结/做题回收）
+
